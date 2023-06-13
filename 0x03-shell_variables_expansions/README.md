@@ -9,3 +9,4 @@ Create a script that creates a new local variable
 Create a script that creates a new global variable
 prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 prints the result of POWER divided by DIVIDE
+script that displays the result of BREATH to the power LOVE
